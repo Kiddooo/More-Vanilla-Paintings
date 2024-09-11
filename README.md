@@ -10,6 +10,3 @@
 
 [According to](https://old.reddit.com/r/Minecraft/comments/u8hpnx/thoughts_on_the_new_paintings/i5olue6/?context=3) former community manager [Helen Zbihlyj](https://minecraft.fandom.com/wiki/Helen_Zbihlyj), these paintings were initially added "as part of a Pocket Edition promo map" (no footage found) which was planned to be a part of Pocket Edition promotion at MINECON 2012 or 2013 and have never been used in-game. The artist of these paintings remains unknown.
 The files were never removed from the Bedrock edition and happened to be added to the Java edition during the development snapshot 22w16a!
-
-# **Download it on [Modrinth](https://modrinth.com/datapack/mvp)**
-# **Join my [Discord server](https://discord.gg/mPAbXsa) for help or to check out my public Minecraft SMP!**
